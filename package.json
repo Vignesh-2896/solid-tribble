@@ -1,0 +1,23 @@
+{
+  "name": "solid-tribble",
+  "version": "1.0.0",
+  "description": "Testing JavaScript files using Jest.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh-2896/solid-tribble.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vignesh-2896/solid-tribble/issues"
+  },
+  "homepage": "https://github.com/Vignesh-2896/solid-tribble#readme"
+}
